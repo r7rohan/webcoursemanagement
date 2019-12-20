@@ -50,6 +50,8 @@ grant all on db.* 'rohan'@localhost identified by 'rohan';   //name='rohan' //pa
   
    <li> Now the main window, This has the list of files uploaded in the particular course. It also has the info of number of downloads and date of upload. If clicked it downloads the particular file and the download for it increases by 1.
   </li><br>
+  <li>All the changes are reflected on every system accessing it and anyone can download the resource uploaded.
+  </li><br>
    <li> All of it happens in real time and updates everytime any button(course , file) is clicked.
   </li><br>
   <li> I could have added a sorting button on the basis of date of upload, name in the main window or a my-file search option but, i feel its not that important.
