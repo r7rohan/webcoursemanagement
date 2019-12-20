@@ -1,5 +1,5 @@
 
-<a href="https://r7ohan.000webhostapp.com/html/indexpage.php"><h3>You can see an example of working website here https://r7ohan.000webhostapp.com/html/indexpage.php</h3></a>
+<a href="https://r7ohan.000webhostapp.com/"><h3>You can see an example of working website here https://r7ohan.000webhostapp.com/</h3></a>
 
 <h1>
 Setting up the web server
