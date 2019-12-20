@@ -1,6 +1,6 @@
 
 <a href="https://r7ohan.000webhostapp.com/"><h3>You can see an example of working website here https://r7ohan.000webhostapp.com/</h3></a>
-Or you can see the basic html folder for static content website.
+Or you can see the basic html folder for static content website. Mainpage- Indexpage, Loginpage- Indexlog, Addcourse- Indexcoursename, Addfile- Indexmaterial
 <h1>
 Setting up the web server
 </h1>
