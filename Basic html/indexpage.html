@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html
+  <head>
+    <link rel="stylesheet" type="text/css" href="../CSS/indexpagecss.css">
+    <script>
+    function leaderboard(){
+      var o=document.getElementById('lb');
+      o.style.transition='width 1s ease-in-out';
+      if(o.style.width=="0vw")o.style.width = '40vw' ;
+      else o.style.width = '0vw' ;}
+    </script>
+  </head>
+
+<body>
+        <section><div class="material">
+          <div><a class="name">file</a><a class="info">info</a></div>
+          <div></div>
+        </div></section>
+
+        <header><div class="header">
+            <div class="logo">COURSE MANAGEMENT</div>
+            <div class="coursecontainer"><div></div><div></div>
+            </div>
+            <div class="logout"></div>
+            <div class="addcourse" onclick="window.location.href='indexcoursename.html'"></div>
+        </div></header>
+
+        <section>
+            <div class="leftmenu">
+            <div class="addmaterial" onclick="window.location.href='indexmaterial.html'">Add File</div>
+            <div class="leaderboardb" onclick="leaderboard()">Leaderboard</div>
+            <div class="mymaterialb">Unused</div>
+            </div>
+
+        </section>
+
+
+          <section>
+              <div class="leaderboard" id="lb">
+                <div align="center">TOP GEMS</div>
+                <pre>rohan          rererppp<br>ererrrr          ererrr<br>rohan          rererppp<br>ererrrr          ererrr<br>rohan          rererppp<br>ererrrr          ererrr<br></pre>
+              </div>
+          </section>
+
+
+
+
+
+    </body></html>
