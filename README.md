@@ -1,3 +1,6 @@
+
+<a href="https://r7ohan.000webhostapp.com/html/indexpage.php"><h3>You can see an example of working website here https://r7ohan.000webhostapp.com/html/indexpage.php</h3></a>
+
 <h1>
 Setting up the web server
 </h1>
@@ -20,7 +23,7 @@ grant all on db.* 'rohan'@localhost identified by 'rohan';   //name='rohan' //pa
 <li>In html/indexphp.php, modify the sql server, the name, password and database to give database access to php </li></ul>
 <br>
 
-<a href="https://r7ohan.000webhostapp.com/html/indexpage.php"><h3>You can see an example of working website here https://r7ohan.000webhostapp.com/html/indexpage.php</h3></a>
+
 <h1>FEATURES...</h1>
 <ul>
   <li> Name and password should be entered in the Login page. If name isn't in the database, a new account is automatically created. 
