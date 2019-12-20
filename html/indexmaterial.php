@@ -23,10 +23,11 @@ if($_SESSION["index"]==1){
 
   if($flag==1)echo ("<script>alert('exists!');</script>");
   else{
+    $f=$_SESSION["file"]["name"];
     $ex=explode('.',$_SESSION["file"]["name"]);
     $ext=strtolower(end($ex));
     chmod ('files/',0777);
-    $dest='files/'.$cname.'.'.$ext;
+    $dest='files/'.$f.$cname.'.'.$ext;
     $temp=$_SESSION["file"]["tmp_name"];
     move_uploaded_file($temp,$dest);
 
