@@ -1,5 +1,6 @@
 <?php include "indexphp.php";
 if(!isset($_GET['pass']))session_start();
+$_SESSION["loggedin"]=$_SESSION["loggedin"]??0;
 
 if (isset($_GET['pass'])){                                                             //login
 $f=0;
