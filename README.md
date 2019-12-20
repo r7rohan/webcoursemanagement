@@ -1,11 +1,12 @@
 
 <a href="https://r7ohan.000webhostapp.com/"><h3>You can see an example of working website here https://r7ohan.000webhostapp.com/</h3></a>
-Or you can see the basic html folder for static content website. <br>Mainpage- Indexpage, Loginpage- Indexlog, Addcourse- Indexcoursename, Addfile- Indexmaterial
+Or you can see the basic html folder for static content website. <br>Mainpage- Indexpage, Loginpage- Indexlog, Addcourse- Indexcoursename, Addfile- Indexmaterial. Download the css, pics and html folders. HTML has php.
 <h1>
 Setting up the web server
 </h1>
 
-<ul><li>Download the files together in the web server folder (/htdocs)</li></ul> 
+<ul><li>Download the files together in the web server folder (/htdocs)</li>
+  <li>Basic html is not required</li></ul> 
 
 <h1>
 Setting up the sql server  
